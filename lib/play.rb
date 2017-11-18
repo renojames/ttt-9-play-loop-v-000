@@ -41,4 +41,5 @@ def turn(board)
   while loop <= 9
     loop += 1
     move(board)
+  end
 end
