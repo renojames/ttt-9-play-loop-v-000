@@ -40,6 +40,6 @@ def play(board)
   loop = 0
   while loop <= 9
     loop += 1
-    move(board)
+    turn(board)
   end
 end
